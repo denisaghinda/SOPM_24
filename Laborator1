@@ -1,0 +1,28 @@
+MoneyTracker
+-e o aplicatie care iti monitorizeaza veniturile si cheltuielile
+
+Version 1.0.0 
+-lansarea initiala
+-creare si gestionare buget personal
+-dashboard vizualizare tranzactii
+-rapoarte financare simple
+
+Version 1.1.0
+-imbunatatirea interfetei pt utilizator
+-export rapoarte financiare sub forma PDF sau CSV
+
+Version 1.1.3
+-actualizari de securitate pentru protectia datelor
+-ajustari minore ale interfetei
+
+Version 1.2.0
+-adaugarea unei sectiuni de sfaturi personalizate
+-integrarea cu alte paltforme(ApplePay, Google Wallet)
+
+Version 2.0.0
+-redesign complet al interfetei
+-colaborare financiara pt familii sau parteneri
+
+Version 2.0.1
+-optimizari de performanta pentru imbunatatirea vitezei
+-imbunatatire de securitate pentru protejarea datelor financiare ale utilizatorilor
